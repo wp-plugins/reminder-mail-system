@@ -4,6 +4,7 @@ Donate link: http://jobsmug.com/reminder-mail-system/
 Tags: Reminder mails, mail, mails, admin mail.
 version: 1.0
 License: GPLv2 or later
+Stable tag: 1.0
 
 Just another Reminder Mail plugin. Simple but flexible.
 
