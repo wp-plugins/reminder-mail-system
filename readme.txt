@@ -10,7 +10,7 @@ Just another Reminder Mail plugin. Simple but flexible.
 
 == Description ==
 
-Reminder Mail plugin Is used to send mails to clients or other from admin panel to remind something.
+Reminder Mail plugin Is used to send mails to clients or others from admin panel to remind something.
 
 == Support =
 
